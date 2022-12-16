@@ -1,0 +1,5 @@
+﻿  start.cpp
+D:\Курсач\Course\start\start.cpp(104,28): warning C4834: отмена возвращаемого значения функции с атрибутом "nodiscard"
+D:\Курсач\Course\start\start.cpp(389,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Курсач\Course\start\start.cpp(194): warning C4715: Level1::operator=: значение возвращается не при всех путях выполнения
+  start.vcxproj -> D:\Курсач\Course\x64\Debug\Level1.exe
